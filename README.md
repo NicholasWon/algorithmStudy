@@ -8,6 +8,9 @@ Baekjun, HackerRank, etc
 - 2747(피보나치 수): 
   [Problem](https://www.acmicpc.net/problem/2747), 
   (Swift)[Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2747.swift)
+- 2839(설탕배달):
+  [Problem](https://www.acmicpc.net/problem/2839)
+  (Swift)[Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2839.swift)
 
 ## HackerRnak
 - Solve Me First: 
