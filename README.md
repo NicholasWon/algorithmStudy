@@ -2,6 +2,9 @@
 Baekjun, HackerRank, etc
 
 ## Baekjun
+- 1065(한수) :
+  [Problem](https://www.acmicpc.net/problem/1065),
+  [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/1065.swift)
 - 2747(피보나치 수): 
   [Problem](https://www.acmicpc.net/problem/2747), 
   [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2747.swift)
