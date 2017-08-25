@@ -14,6 +14,9 @@ Baekjun, HackerRank, etc
 - 2839(설탕배달):
   [Problem](https://www.acmicpc.net/problem/2839),
   (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2839.swift)
+- 4673(셀프 넘버):
+  [Problem](https://www.acmicpc.net/problem/4673),
+  (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/4673.swift)
 
 ## HackerRnak
 - Solve Me First: 
