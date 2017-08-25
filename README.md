@@ -1,4 +1,4 @@
-# ÁlgorithmStudy
+# AlgorithmStudy
 Baekjun, HackerRank, etc
 
 ## Baekjun
