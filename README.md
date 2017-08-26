@@ -1,4 +1,4 @@
-# AlgorithmStudy
+# Algorithm Study
 Baekjun, HackerRank, etc
 
 ## Baekjun
@@ -8,6 +8,9 @@ Baekjun, HackerRank, etc
 - 1110(더하기 사이클):
   [Problem](https://www.acmicpc.net/problem/1110),
   (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/1110.swift)
+- 2231(분해합):
+  [Problem](https://www.acmicpc.net/problem/2231),
+  (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2231.swift)
 - 2747(피보나치 수): 
   [Problem](https://www.acmicpc.net/problem/2747), 
   (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2747.swift)
