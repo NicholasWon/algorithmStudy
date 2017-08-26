@@ -11,6 +11,9 @@ Baekjun, HackerRank, etc
 - 2231(분해합):
   [Problem](https://www.acmicpc.net/problem/2231),
   (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2231.swift)
+- 2309(일곱 난쟁이):
+  [Problem](https://www.acmicpc.net/problem/2309),
+  (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2309.swift)
 - 2747(피보나치 수): 
   [Problem](https://www.acmicpc.net/problem/2747), 
   (Swift) [Solution](https://github.com/NicholasWon/algorithmStudy/blob/master/Baekjun/2747.swift)
